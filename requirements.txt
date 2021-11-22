@@ -1,0 +1,11 @@
+streamlit
+sklearn
+pandas
+stop_words
+nltk
+stop_words
+plotly
+matplotlib
+spacy_streamlit
+spacy>=2.2.0,<3.0.0
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz#egg=en_core_web_sm
